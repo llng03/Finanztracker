@@ -2,10 +2,10 @@
 Fullstack web application for tracking personal finances.
 
 ## Repositories
-**Frontend:**
+**Frontend:**  
+https://github.com/llng03/ftracker-frontend  
+**Backend:**  
 https://github.com/llng03/ftracker  
-**Backend:**
-https://github.com/llng03/ftracker-frontend
 
 ## Features
 - monthly overview with cateogories and totals
