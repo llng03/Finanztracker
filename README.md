@@ -8,14 +8,14 @@ https://github.com/llng03/ftracker
 https://github.com/llng03/ftracker-frontend
 
 ## Features
-- monthly Overview with Cateogories and Totals
+- monthly overview with cateogories and totals
 - add single income or expense to any month
-- add fixedCosts, that happen at a certain frequency (monthly, quarterly, half-annual, annual)
+- add fixed costs, that happen at a certain frequency (monthly, quarterly, half-annual, annual)
 - pots for various saving goals
 - fixed expenses that are not monthly are distributed on monthly expenses that get saved in a pot
-- correction Mode for editing and deleting entries
+- correction-mode for editing and deleting entries
 - statistics dashboard with charts showing the distribution of expenses
-- authentication via Google
+- authentication via google
 - demo-Mode
 
 ## Tech Stack
@@ -41,7 +41,6 @@ Clone both repositories:
   
 **2) Start database**  
 Start the PostgreSQL database using Docker:  
-  
 `docker compose up -d`  
   
 **3) Start backend**  
