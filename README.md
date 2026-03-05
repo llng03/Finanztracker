@@ -23,7 +23,7 @@ https://github.com/llng03/ftracker-frontend
 **Backend:** Spring Web, Gradle, Spring Security (OAuth2), JWT (for demo-version)  
 **Database:** PostgreSQL
 
-## Architektur
+## Architekture
 
 ## Setup
 **0) Prerequisites**  
