@@ -8,15 +8,15 @@ https://github.com/llng03/ftracker
 https://github.com/llng03/ftracker-frontend
 
 ## Features
-- Monthly Overview with Cateogories and Totals
+- monthly Overview with Cateogories and Totals
 - add single income or expense to any month
 - add fixedCosts, that happen at a certain frequency (monthly, quarterly, half-annual, annual)
-- Pots for various saving goals
+- pots for various saving goals
 - fixed expenses that are not monthly are distributed on monthly expenses that get saved in a pot
-- Correction Mode for editing and deleting entries
-- Statistics dashboard with charts showing the distribution of expenses
-- Authentication via Google
-- Demo-Mode
+- correction Mode for editing and deleting entries
+- statistics dashboard with charts showing the distribution of expenses
+- authentication via Google
+- demo-Mode
 
 ## Tech Stack
 **Frontend:** React(Vite), Axois  
@@ -54,8 +54,6 @@ Start the Spring Boot application:
 The backend then runs at http://localhost:8081.  
   
 **4) Start frontend**  
-## Start frontend  
-  
 Navigate to the frontend project:  
 `cd financetracker-frontend`  
   
